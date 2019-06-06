@@ -41,6 +41,7 @@ False Negatives = 2 (Cases that were actually Malignant but predicted as Benign)
 ### Conclusion
 Considering the small size of the dataset, the results were satisfactory.
 KNN classification model predicted results with accuracy = 85.71%
+It would be interesting to build prediction models for big data sets.
 As I learn new concepts in Data Science it is likely that I will revisit this dataset, to test other algorithms.
 
 
