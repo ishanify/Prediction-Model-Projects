@@ -1,6 +1,12 @@
 # Prediction-Model-Projects
-I have created many prediction projects on different data sets. Each dataset is of a different type.
-As a general strategy to perform predictive analysis, I have followed these steps:
+### What this repository contains?
+I have created many prediction projects in R and Python on different data sets such as Prostate Cancer, Wine Quality and more. Each project would be a better than the previous one as I learn to apply more advanced concepts of Data Science.
+
+**Projects:**
+1. Prostate Cancer Prediction - Model predicts if a patient had Malignant or Benign Cancer (https://github.com/ishanify/Prediction-Model-Projects/tree/master/Cancer_Prediction_KNN_Algo)
+2. Wine quality prediction - Model predicts if wine has High, Medium or Low quality  (https://github.com/ishanify/Prediction-Model-Projects/blob/master/Wine_prediction_KNN.ipynb)
+
+### I follow this approach to build prediction model:
 - Explore data, observe it's characteristics
 - Check for missing values and outliers
 - Clean the data if there are missing values and/or outliers (This is important for predictive analysis)
