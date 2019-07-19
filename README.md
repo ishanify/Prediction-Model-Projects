@@ -4,10 +4,10 @@ I have created many prediction projects in R and Python on different data sets s
 
 **Projects:**
 
-| Title  |  Objective | Algorithm/ Technique |Solution |
-| ------------- | -------------| -------------  | ------------|
-|Credit Card Approval | Model to predict Credit Card Application Result: Approve orDecline | Logistic Regression (Python)  | [Code](Predictive Model Practice Projects/CreditCard_Approval_Prediction.ipynb) | 
-|Prostate Cancer Prediction | Build model to predicts if a patient had Malignant or Benign Cancer | KNN Algorithm (R)  | [Code](https://github.com/ishanify/Prediction-Model-Projects/tree/master/Cancer_Prediction_KNN_Algo)|
+| Project | Algorithm/ Technique |Solution |
+| ------------- | -------------  | ------------|
+|Credit Card Approval - predict for Approve or Decline | Logistic Regression (Python)  | [Code](/Predictive-Model-Practice-Projects'/CreditCard_Approval_Prediction.ipynb) | 
+|Prostate Cancer type detection - predicts Malignant or Benign Cancer | KNN Algorithm (R)  | [Code](https://github.com/ishanify/Prediction-Model-Projects/tree/master/Cancer_Prediction_KNN_Algo)|
 
 
 1. 
