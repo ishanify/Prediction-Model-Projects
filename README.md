@@ -4,11 +4,11 @@ I have created many prediction models in Python and R on different data sets suc
 
 **Projects:**
 
-| Project | Algorithm/ Technique |Solution |
-| ------------- | -------------  | ------------|
-|Credit Card Approval - predict for Approve or Decline applications | Logistic Regression (Python)  | [Code](https://github.com/ishanify/Prediction-Model-Projects/blob/master/Predictive%20Model%20Practice%20Projects/CreditCard_Approval_Prediction.ipynb) | 
-|Prostate Cancer type detection - predicts Malignant or Benign Cancer | KNN Algorithm (R)  | [Code](https://github.com/ishanify/Prediction-Model-Projects/tree/master/Cancer_Prediction_KNN_Algo)|
-|Wine quality prediction - predicts High, Medium or Low quality | KNN Algorithm (R) | [Code](https://github.com/ishanify/Prediction-Model-Projects/blob/master/Wine_prediction_KNN.ipynb) | 
+| Project | Algorithm | Language |Solution |
+| ------------- | -------------  | ------------ | ------------|
+|Credit Card Approval - predict for Approve or Decline applications | Logistic Regression | Python  | [Code](https://github.com/ishanify/Prediction-Model-Projects/blob/master/Predictive%20Model%20Practice%20Projects/CreditCard_Approval_Prediction.ipynb) | 
+|Prostate Cancer type detection - predicts Malignant or Benign Cancer | KNN Algorithm | R  | [Code](https://github.com/ishanify/Prediction-Model-Projects/tree/master/Cancer_Prediction_KNN_Algo)|
+|Wine quality prediction - predicts High, Medium or Low quality | KNN Algorithm | R | [Code](https://github.com/ishanify/Prediction-Model-Projects/blob/master/Wine_prediction_KNN.ipynb) | 
 
 ### I follow this approach to build prediction model:
 - Explore data, observe it's characteristics
