@@ -1,6 +1,6 @@
-# Prediction-Model-Projects
+# Predictive Analytics
 ### What this repository contains?
-I have created many prediction projects in R and Python on different data sets such as Prostate Cancer, Wine Quality and more. Each project would be a better than the previous one as I learn to apply more advanced concepts of Data Science.
+I have created many prediction models in Python and R on different data sets such as Credit Card Application Approval, Prostate Cancer, Wine Quality and more. Each project would be better than the previous one as I learn to apply more advanced concepts of Data Science.
 
 **Projects:**
 
@@ -22,7 +22,6 @@ I have created many prediction projects in R and Python on different data sets s
   - For example, **SMOTE** avoids overfitting by inducing synthetic data 
 - Dividing the dataset into training and test sets, generally 70:30 ratio
 - Training the BEST prediction model by changing various parameters
-  - For example in KNN, I found the best fit model by changing value of K.
 - **Evaluation of the model**
 
   | Performace Metric | Description |
