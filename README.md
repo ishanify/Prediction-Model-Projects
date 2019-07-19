@@ -3,7 +3,14 @@
 I have created many prediction projects in R and Python on different data sets such as Prostate Cancer, Wine Quality and more. Each project would be a better than the previous one as I learn to apply more advanced concepts of Data Science.
 
 **Projects:**
-1. Prostate Cancer Prediction - Model predicts if a patient had Malignant or Benign Cancer (https://github.com/ishanify/Prediction-Model-Projects/tree/master/Cancer_Prediction_KNN_Algo)
+
+| Title  |  Objective | Algorithm/ Technique |Solution |
+| ------------- | -------------| -------------  | ------------|
+|Credit Card Approval | Model to predict Credit Card Application Result: Approve orDecline | Logistic Regression (Python)  | [Code](Predictive Model Practice Projects/CreditCard_Approval_Prediction.ipynb) | 
+|Prostate Cancer Prediction | Build model to predicts if a patient had Malignant or Benign Cancer | KNN Algorithm (R)  | [Code](https://github.com/ishanify/Prediction-Model-Projects/tree/master/Cancer_Prediction_KNN_Algo)|
+
+
+1. 
 2. Wine quality prediction - Model predicts if wine has High, Medium or Low quality  (https://github.com/ishanify/Prediction-Model-Projects/blob/master/Wine_prediction_KNN.ipynb)
 
 ### I follow this approach to build prediction model:
